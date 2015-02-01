@@ -6,8 +6,8 @@ Changes based on efforts of Benjamin Podszun: https://groups.google.com/a/arduin
 To install copy and paste the Mricroduino directory from the repository into the hardware directory of the Arduino IDE directory that you created.  After you do this the directory should look something like this:
 
 hardware
->>arduino
->>Microduino
->>tools
+---arduino
+===Microduino
+---tools
   
   Thats is.  
